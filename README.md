@@ -12,8 +12,8 @@ git status
 
 comitte 
 
-add myfile.py
-commit -m "Update myfile.py with new changes"
+git add myfile.py
+git commit -m "Update myfile.py with new changes"
 git push origin main
 
 hente fra git 
